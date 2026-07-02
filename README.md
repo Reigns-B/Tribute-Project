@@ -47,7 +47,7 @@ Tribute-Webpage/
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Clone the repository
 
@@ -92,7 +92,7 @@ Create and publish a tribute webpage using HTML and CSS, applying relevant HTML 
 
 ---
 
-## 🚀 Future Improvements
+##  Future Improvements
 
 - Add animations using CSS
 - Improve responsiveness across all screen sizes
